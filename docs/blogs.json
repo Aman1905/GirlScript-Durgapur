@@ -1,0 +1,85 @@
+{
+    "blogs": [
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "Blockchain-Understanding it's uses and Implications",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/700/1*mNwSwfyBWTAa7DvebEdZJA.jpeg",
+            "url": "https://medium.com/nerd-for-tech/blockchain-understanding-its-uses-and-implications-162b6d1cffd5",
+            "meta-title": "It began when Satoshi Nakamoto, whose true identity is still unknown, released a white paper in 2008, introducing a purely peer-to-peer version of electronic cash known as Bitcoin. It is here that blockchain technology made its debut...."
+        },
+        {
+            "name": "Nilisha Jaiswal",
+            "about": "An open source enthusiast",
+            "title": "Website and Web Application-The Difference",
+            "image": "https://miro.medium.com/fit/c/131/131/1*OTdqYwL3jGQT4hokE8_bpw.jpeg",
+            "cover": "https://miro.medium.com/max/509/1*NuEMKPvXQZDaXXPmF0QgMw.png",
+            "url": "https://jaiswal-nilisha05.medium.com/website-and-web-application-the-difference-84b227559ba1",
+            "meta-title": "A new era of technology has been shaken awake where the world stands on our fingertips. Just one ‘click’ and boom💥 you are redirected to wherever you want. But often we get mistaken between a website and a web application....."
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "Docker-A beginner's guide",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/336/1*qwk8WjH-tL-KSblFL7W-CQ.png",
+            "url": "https://amanchopra-atg.medium.com/docker-a-beginners-guide-338f20f5f113",
+            "meta-title": "Docker is an Open Source Centralized PaaS (Platform as a Service) that uses O.S. level virtualization to create, deploy and run applications in packages known as Containers.But before Docker, everyone were using VMware. So what is the need to introduce docker......"
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "Ultimate guide or Brief of AWS",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/700/1*JW6fz8y8XtgjVrBjRoeetA.png",
+            "url": "https://amanchopra-atg.medium.com/aws-amazon-web-services-41fc7e59fc27",
+            "meta-title": "AWS is a secure cloud service platform that offers its customers a wide range of services like compute power, database storage, content delivery and other functionality to help in growing a business. But before directly moving to AWS we must first get familiar with the basic concepts of Cloud Computing..."
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "My 1st Experience in the Hacker Community | MLH Local Hack Day : Share",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/2400/1*ByWHlrGnKFMvk14N3jSpEA.jpeg",
+            "url": "https://medium.com/nerd-for-tech/my-1st-experience-in-the-hacker-community-mlh-local-hack-day-share-e9706799498f",
+            "meta-title": "Local Hack Day: Share is a week-long celebration of sharing everything you’ve learned as a hacker. You’ll spend the week completing technical, design, and social challenges to earn points. There are challenges for every skill...."
+        },
+        {
+            "name": "Nilisha Jaiswal",
+            "about": "An open source enthusiast",
+            "title": "Host your website/app in Netlify from GitHub",
+            "image": "https://miro.medium.com/fit/c/131/131/1*OTdqYwL3jGQT4hokE8_bpw.jpeg",
+            "cover": "https://miro.medium.com/max/700/1*a7nV7y17BxmMbaKZSjzorQ.png",
+            "url": "https://jaiswal-nilisha05.medium.com/host-your-website-app-in-netlify-from-github-f8d4e227a9f2",
+            "meta-title": "Netlify is a web developer platform that multiplies productivity. By unifying the elements of the modern decoupled web, from local development to advanced edge logic, Netlify enables a 10x faster path to much more performant, secure, and scalable websites and apps...."
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "My Learning Experience at Crio Winter of Doing — Stage 1",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/700/1*0uRh7vfLmw4q1XO0LSpoVA.png",
+            "url": "https://amanchopra-atg.medium.com/my-learning-experience-at-crio-winter-of-doing-stage-1-4e193e02f45e",
+            "meta-title": "Crio Winter of Doing is a one of a kind Tech Internship Program focused on bringing together budding engineering talent to work on challenging projects for the most exciting startups in the country..."
+        },
+        {
+            "name": "Nilisha Jaiswal",
+            "about": "An open source enthusiast",
+            "title": "Git-Squashing Multiple Commit into a single one",
+            "image": "https://miro.medium.com/fit/c/131/131/1*OTdqYwL3jGQT4hokE8_bpw.jpeg",
+            "cover": "https://miro.medium.com/max/700/1*IuHh_NZRbF3MQNzXhyxBRQ.png",
+            "url": "https://jaiswal-nilisha05.medium.com/git-squashing-multiple-commit-into-a-single-one-6eb60feac5f9",
+            "meta-title": "A tool which comes into handy when we want to group together several small commits into a single lump to push upstream.<br>Steps to follow:"
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "Microsoft Learn Student Ambassador",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/700/1*Xg6YekneAMezEtEk5t946Q.jpeg",
+            "url": "https://amanchopra-atg.medium.com/microsoft-learn-student-ambassador-63298dc85e86",
+            "meta-title": "I was getting lots of dm to guide them how I became a MSP. Since it was not possible for me to reply each of you thats why I am sharing my experience through the MEDIUM. Hope it helps you...."
+        }
+    ]
+}

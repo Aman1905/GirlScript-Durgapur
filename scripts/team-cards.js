@@ -115,6 +115,19 @@ const teamDetails = [
 	},
 
 	{
+		name: 'Hari Priya',
+		position: 'The Lead',
+		image: 'hari_priya.jpeg',
+		profiles: [
+			{
+				linkedIn: 'https://www.linkedin.com/in/hari-priya-207207191',
+				github: 'https://github.com/haripriya9647',
+				twitter: 'https://twitter.com/Haripri86007496'
+			}
+		]
+	},
+
+	{
 		name: 'Aman Chopra',
 		position: 'Technical Team',
 		image: 'aman_chopra.jpg',
@@ -224,7 +237,8 @@ const mapPositionToHtmlId = position => {
 		Creatives_Team: 'creatives',
 		Management_Team: 'management',
 		Content_Team: 'content',
-		Marketing_Team: 'marketing'
+		Marketing_Team: 'marketing',
+		The_Lead: 'leader'
 	};
 
 	return mappingSet[position];

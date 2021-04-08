@@ -94,6 +94,10 @@ const marketing = new Vue({
 	el: '#marketing'
 });
 
+const leader = new Vue({
+	el: '#leader'
+});
+
 const management = new Vue({
 	el: '#management'
 });

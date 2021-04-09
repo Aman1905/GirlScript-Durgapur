@@ -171,6 +171,7 @@ Blog Cards
 	}
 	.card{
 		width:auto;
+		min-width:11rem;
 	}
 }
 

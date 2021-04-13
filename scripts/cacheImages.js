@@ -4,7 +4,7 @@ async function getData() {
 	const cacheVersion = 1;
 	const cacheName = `girlscript-${cacheVersion}`;
 	const urls = [
-		'/assets/Images/logo/logo_for_boilerplate_1.png',
+		'/assets/Images/logo/logo_for_gs_dgp.png',
 		'/assets/Images/index/ml.jpg',
 		'/assets/Images/index/IoT1.jpg',
 		'/assets/Images/index/program.jpg',

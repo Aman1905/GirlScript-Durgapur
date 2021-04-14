@@ -23,7 +23,7 @@ html {
 	--wave1-bg: #636363;
 	--wave2-bg: #b2b2b2;
 	--bg-image: url('../assets/Images/logo/logo_for_boilerplate_1.png');
-	--logo-image: url('../assets/Images/logo/Logo1.png');
+	--logo-image: url('../assets/Images/logo/gs_logo_light.png');
 	--box-shadow: 0 10px 25px rgba(240, 112, 0, 0.23), 0 6px 0px rgba(240, 112, 0, 0.5);
 	--btn-shadow: 0 5px 10px #ff9a0e;
 	--nav-bar: #fff;
@@ -50,7 +50,7 @@ html[data-theme='dark'] {
 	--wave1-bg: #686868;
 	--wave2-bg: #b2b2b2;
 	--bg-image: url('../assets/Images/logo/logo_for_boilerplate_2.png');
-	--logo-image: url('../assets/Images/logo/Logo2.png');
+	--logo-image: url('../assets/Images/logo/gs_logo_dark.png');
 	--box-shadow: 0 3px 14px rgba(0, 0, 0, 0.2);
 	--btn-shadow: 0 3px 14px rgba(0, 0, 0, 0.2);
 	--nav-bar: #000;

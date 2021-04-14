@@ -4,7 +4,7 @@
 
 let header = $(`
 <nav class="navbar fixed-top navbar-expand-lg" id="navbar">
-  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/logo1.png" id="logo" alt="Girl Script Chennai Chapter Logo" aria-label="Girl Script Chennai Chapter Logo"></a>
+  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/logo_1.jpg" id="logo" alt="Girl Script Durgapur Chapter Logo" aria-label="Girl Script Durgapur Chapter Logo"></a>
   <div id="myNav" class="fullScreen-navigation">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <div class="navigation-content" id="smallnav">
@@ -57,7 +57,7 @@ let footer = $(`
 <div class="container">
   <div class="row">
 	<div class="col-lg-6 col-md-4 footer-logo"> 
-		<img data-src="assets/Images/logo/logo.png" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="Girl Script Chennai Chapter Logo" class="logo" aria-label="Girl Script Chennai Chapter Logo">
+		<img data-src="assets/Images/logo/logo.jpg" src="data:image/jpg;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="Girl Script Durgapur Chapter Logo" class="logo" aria-label="Girl Script Durgapur Chapter Logo">
 	</div>
 	<div class="col-lg-6 col-md-8 mb-5" id="footer-c">		
 	  <br> 
@@ -73,12 +73,11 @@ let footer = $(`
    <center>
 
 		<div class="social-media">
-		  <a class="fa fa-twitter"  href="https://twitter.com/girlscriptch"></a>
-		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscriptchennai/"></a>
+		  <a class="fa fa-twitter"  href=" https://twitter.com/GirlScriptDurg1"></a>
+		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscriptdurgapur/"></a>
 		  <a class="fa fa-github" href="https://github.com/girlscriptchennai"></a>
-		  <a class="fa fa-linkedin" href="https://www.linkedin.com/company/girlscript-chennai/"></a>
+		  <a class="fa fa-linkedin" href=" https://www.linkedin.com/company/girlscript-durgapur"></a>
 		</div>
-		  <h6 class="footer-h3">Made with ♥</h6>
 	</center>
 </div>		
 </footer>`);

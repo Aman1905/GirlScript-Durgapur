@@ -4,7 +4,7 @@ async function getData() {
 	const cacheVersion = 1;
 	const cacheName = `girlscript-${cacheVersion}`;
 	const urls = [
-		'/assets/Images/logo/logo_for_gs_dgp.png',
+		'/assets/Images/logo/logo_for_boilerplate.png',
 		'/assets/Images/index/ml.jpg',
 		'/assets/Images/index/IoT1.jpg',
 		'/assets/Images/index/program.jpg',
@@ -12,8 +12,8 @@ async function getData() {
 		'/assets/Images/index/cs3.jpg',
 		'/assets/Images/index/robot1.jpg',
 		'/assets/Images/Front-img/event.jpg',
-		'/assets/Images/logo/Logo1.png',
-		'/assets/Images/logo/logo.png',
+		'/assets/Images/logo/Logo1.jpg',
+		'/assets/Images/logo/logo.jpg',
 		'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0',
 		'/assets/Images/announcement/producthunt.png',
 		'/assets/Images/announcement/contributors.png',

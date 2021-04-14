@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top" id="navbar">
-  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/logo1.png" id="logo" alt="Girl Script Durgapur Chapter Logo" aria-label="Girl Script Durgapur Chapter Logo"></a>
+  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/gs.png" id="logo" alt="Girl Script Durgapur Chapter Logo" aria-label="Girl Script Durgapur Chapter Logo"></a>
   <div id="myNav" class="fullScreen-navigation">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <div class="navigation-content" id="smallnav">
@@ -99,7 +99,7 @@ let footer = $(`
 <div class="container">
   <div class="row">
 	<div class="col-lg-6 col-md-4 footer-logo"> 
-		<img data-src="assets/Images/logo/logo.png" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="Girl Script Chennai Chapter Logo" class="logo" aria-label="Girl Script Chennai Chapter Logo">
+		<img data-src="assets/Images/logo/logo_1.1.png" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="Girl Script Durgapur Chapter Logo" class="logo" aria-label="Girl Script Chennai Chapter Logo">
 	</div>
 	<div class="col-lg-6 col-md-8 mb-5" id="footer-c">		
 	  <br> 
@@ -116,7 +116,7 @@ let footer = $(`
    <center>
 
 		<div class="social-media">
-		  <a class="fa fa-twitter"  href="https://twitter.com/GirlScriptDurg1"></a>
+		  <a class="fa fa-twitter"  href=" https://twitter.com/GirlScriptDurg1"></a>
 		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscriptdurgapur/"></a>
 		  
 		  <a class="fa fa-linkedin" href="https://www.linkedin.com/company/girlscript-durgapur"></a>

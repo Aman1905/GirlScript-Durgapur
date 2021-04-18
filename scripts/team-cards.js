@@ -39,7 +39,7 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Nikita Nishcal',
+		name: 'Nikita Nishchal',
 		position: 'The Board',
 		image: 'nikita_nishchal.jpg',
 		profiles: [
@@ -206,7 +206,7 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Nikita Nishcal',
+		name: 'Nikita Nishchal',
 		position: 'Content Team',
 		image: 'nikita_nishchal.jpg',
 		profiles: [

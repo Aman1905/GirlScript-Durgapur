@@ -14,27 +14,27 @@ const breakPosition = {
 
 const trendCardsDetails = [
 	{
-		backgroundCover: 'assets/Images/index/ml.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/132658/screenshots/14095717/media/c2dfb424808d6b39baf849054031fb1b.png?compress=1&resize=800x600',
 		displayName: 'Machine Learning'
 	},
 	{
-		backgroundCover: 'assets/Images/index/IoT1.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/410907/screenshots/9222503/media/c72ddfb2defe7a8d8d851064b6e94d89.jpg?compress=1&resize=800x600',
 		displayName: 'Internet of Things'
 	},
 	{
-		backgroundCover: 'assets/Images/index/program.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/1751513/screenshots/14329055/media/71ace4877f1dd45a66f355cdf9dc1708.png?compress=1&resize=800x600',
 		displayName: 'Web Development'
 	},
 	{
-		backgroundCover: 'assets/Images/index/cloud1.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/2920041/screenshots/15469045/media/8ddd8485720aafff1fb1249f0ed388f3.png?compress=1&resize=800x600',
 		displayName: 'Cloud Computing'
 	},
 	{
-		backgroundCover: 'assets/Images/index/cs3.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg?compress=1&resize=800x600',
 		displayName: 'Cyber Security'
 	},
 	{
-		backgroundCover: 'assets/Images/index/robot1.jpg',
+		backgroundCover: 'https://cdn.dribbble.com/users/112892/screenshots/14681965/media/0647dcbf7532a86087f7987927235690.png?compress=1&resize=800x600',
 		displayName: 'Robotics'
 	}
 ];

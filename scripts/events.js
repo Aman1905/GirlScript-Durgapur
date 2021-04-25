@@ -2,13 +2,13 @@ const eventSchedule = [
 	{
 		stageName: 'Registration',
 		stageDetails: `On-site registration so that attendance will be marked here.`,
-		timings: '11:30 a.m - 12:30 p.m',
+		timings: 'April 25, 2021 onwards',
 		favClasses: 'fa fa-users'
 	},
 	{
 		stageName: 'Event-Begins',
 		stageDetails: `Introduction to UI/UX Designing`,
-		timings: '6 : 00 p.m - 8 " 00 p.m',
+		timings: '6 : 00 p.m - 8 : 00 p.m<br>April 29, 2021',
 		favClasses: 'fa fa-handshake-o'
 	},/*
 	{

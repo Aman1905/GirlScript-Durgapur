@@ -12,7 +12,7 @@ const recentEventsDetails = [
 		coverImage: 'assets/Images/announcement/Event1.png',
 		eventName: 'Introduction to UI/UX Design',
 		altName: 'Introduction to UI/UX Design',
-		eventDescription: `This is your path to a career in UX design. In this program, you’ll learn in-demand skills`,
+		eventDescription: `For this, we come up with an enormous speaker Shubham Ranjan, a product designer at prodX `,
 		referencePage: 'https://docs.google.com/forms/d/e/1FAIpQLSdvn_QehI6fHz1XQEpgmg16iIKrXzofSLB6HGKEes-XXWpzXQ/viewform'
 	}
 ];

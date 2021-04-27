@@ -1,49 +1,19 @@
 const announcementTimeline = [
 	{
-		eventName: 'Girlscript Contributors Week',
-		eventDescription: `It is a meetup where everyone who are a part of Girlscript will gather and share their
-							experience.`,
-		eventDate: 'June 20, 2020',
-		eventPageLink: './event1.html'
-	},
-	{
-		eventName: 'Code Camp',
-		eventDescription: `It is a coding camp where everyone can participate and learn about different technologies.`,
-		eventDate: 'May 20, 2020',
-		eventPageLink: './event1.html'
-	},
-	{
-		eventName: 'Code Camp',
-		eventDescription: `It is a coding camp where everyone can participate and learn about different technologies.`,
-		eventDate: 'May 20, 2020',
+		eventName: 'Introduction to UI/UX Design',
+		eventDescription: `GirlScript Durgapur in collaboration with GirlScript Hoogly.`,
+		eventDate: 'April 29, 2021',
 		eventPageLink: './event1.html'
 	}
 ];
 
 const recentEventsDetails = [
 	{
-		coverImage: 'assets/Images/announcement/producthunt.png',
-		eventName: 'Product Hunt',
-		altName: 'Product Hunt Logo',
-		eventDescription: `We are feeling much happy to announce Product Hunt as out official In-Kind partner.
-                                Thankyou for being with Girlscript and helping it make a success.`,
-		referencePage: 'recent.html'
-	},
-	{
-		coverImage: 'assets/Images/announcement/contributors.png',
-		eventName: 'Contributions',
-		altName: 'Contributors Illustration',
-		eventDescription: `We are extremely elated to see so many participants coming up with different skills and
-								new ways of approaching solution and contribute to the project.`,
-		referencePage: 'recent.html'
-	},
-	{
-		coverImage: 'assets/Images/announcement/DU-Express.png',
-		eventName: 'DU Express',
-		altName: 'DU Express Logo',
-		eventDescription: `We would like to thank DU Express (@DuExpress) to be our Media Partner for GirlScript
-								Summer Of Code 2020.`,
-		referencePage: 'recent.html'
+		coverImage: 'assets/Images/announcement/Event1.png',
+		eventName: 'Introduction to UI/UX Design',
+		altName: 'Introduction to UI/UX Design',
+		eventDescription: `For this, we come up with an enormous speaker Shubham Ranjan, a product designer at prodX `,
+		referencePage: 'https://docs.google.com/forms/d/e/1FAIpQLSdvn_QehI6fHz1XQEpgmg16iIKrXzofSLB6HGKEes-XXWpzXQ/viewform'
 	}
 ];
 
@@ -89,7 +59,7 @@ const generateEventsCard = (eventDetail, fixClassIndex) => {
 							</p>
 						</div>
 						<div class="card-stats">
-							<a href="${referencePage}" class="btn card-btn card1-text card-btn2" target="_blank"> Read More</a>
+							<a href="${referencePage}" class="btn card-btn card1-text card-btn2" target="_blank"> Register</a>
 						</div>
 					</div>`;
 

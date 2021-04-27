@@ -1,16 +1,16 @@
 const eventSchedule = [
 	{
 		stageName: 'Registration',
-		stageDetails: `On-site registration for the qualified teams, attendance will be marked here.`,
-		timings: '11:30 a.m - 12:30 p.m',
+		stageDetails: `On-site registration so that attendance will be marked here.`,
+		timings: 'April 25, 2021 onwards',
 		favClasses: 'fa fa-users'
 	},
 	{
-		stageName: 'Event-Opening',
-		stageDetails: `Introduction to the organisers, mentors, judges and discussing event details.`,
-		timings: '1:30 p.m - 3:30 p.m',
+		stageName: 'Event-Begins',
+		stageDetails: `Introduction to UI/UX Designing`,
+		timings: '6 : 00 p.m - 8 : 00 p.m<br>April 29, 2021',
 		favClasses: 'fa fa-handshake-o'
-	},
+	},/*
 	{
 		stageName: 'Event-Begins',
 		stageDetails: `Participants will be required to submit the idea they’ve finalised and
@@ -30,7 +30,7 @@ const eventSchedule = [
 						application.`,
 		timings: '9:30 p.m -11:00 p.m',
 		favClasses: 'fa fa-asl-interpreting'
-	}
+	}*/
 ];
 
 const FAQ = [

@@ -4,7 +4,20 @@ const announcementTimeline = [
 		eventDescription: `GirlScript Durgapur in collaboration with GirlScript Hoogly.`,
 		eventDate: 'April 29, 2021',
 		eventPageLink: './event1.html'
+	},
+	{
+		eventName: 'Introductory webinar on Docker',
+		eventDescription: `GirlScript Durgapur in collaboration with GS Jalandhar.`,
+		eventDate: 'May 29, 2021',
+		eventPageLink: './event2.html'
+	},
+	{
+		eventName: 'Talks on GitHub and Open Source',
+		eventDescription: `Our lead speaker Aman Chopra(MLSA) will introduce you to GitHub and open source.`,
+		eventDate: 'July 19, 2021',
+		eventPageLink: './event3.html'
 	}
+	
 ];
 
 const recentEventsDetails = [
@@ -14,6 +27,20 @@ const recentEventsDetails = [
 		altName: 'Introduction to UI/UX Design',
 		eventDescription: `For this, we come up with an enormous speaker Shubham Ranjan, a product designer at prodX `,
 		referencePage: 'https://docs.google.com/forms/d/e/1FAIpQLSdvn_QehI6fHz1XQEpgmg16iIKrXzofSLB6HGKEes-XXWpzXQ/viewform'
+	},
+	{
+		coverImage: 'assets/Images/announcement/Event2.jpg',
+		eventName: 'Introductory webinar on Docker',
+		altName: 'Introductory webinar on Docker',
+		eventDescription: `For this, we come up with an enormous speaker Seema Sharan, Associate System Engineer at IBM  `,
+		referencePage: 'http://bit.ly/3hJQm3Z'
+	},
+	{
+		coverImage: 'assets/Images/announcement/Event3.jpg',
+		eventName: 'Talks on GitHub and Open Source',
+		altName: 'Talks on GitHub and Open Source',
+		eventDescription: `For this, we come up with an enormous speaker Aman Chpra, a mentor, MLSA and Web Developer `,
+		referencePage: 'https://bit.ly/3wEICoR'
 	}
 ];
 

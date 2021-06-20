@@ -63,7 +63,6 @@
             "url": "https://medium.com/nerd-for-tech/my-1st-experience-in-the-hacker-community-mlh-local-hack-day-share-e9706799498f",
             "meta-title": "Local Hack Day: Share is a week-long celebration of sharing everything you’ve learned as a hacker. You’ll spend the week completing technical, design, and social challenges to earn points. There are challenges for every skill...."
         },
-       
         {
             "name": "Nilisha Jaiswal",
             "about": "An open source enthusiast",
@@ -108,6 +107,24 @@
             "cover": "https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png?compress=1&resize=800x600",
             "url": "https://arrahppk.medium.com/hackerrank-43fc245e25f6",
             "meta-title": "HackerRank is a platform where people from all over the world involve to solve particular problems. Problems that are not related to family, friends, love but actually and totally belong to the technical stream.It’s programming-based ...."
+        },
+        {
+            "name": "Nilisha Jaiswal",
+            "about": "An open source enthusiast",
+            "title": "Contributing to Open Source: How to get started",
+            "image": "https://miro.medium.com/fit/c/131/131/1*OTdqYwL3jGQT4hokE8_bpw.jpeg",
+            "cover": "https://miro.medium.com/max/700/1*das5N5MUkBbgJi3eM7Y8GA.png",
+            "url": "https://jaiswal-nilisha05.medium.com/contributing-to-open-source-how-to-get-started-a52809b2f68b",
+            "meta-title": "If you are looking to know about OPEN SOURCE and how to get started, here are the answers. So lets get started🤓Firstly, What is open source? It is a way of software development ....."
+        },
+        {
+            "name": "Aman Chopra",
+            "about": "Python Lover | Cloud (AWS) | Tech Content Writer ",
+            "title": "Git and GitHub — Beginner’s Guide : A Hands-on Approach.",
+            "image": "https://miro.medium.com/fit/c/131/131/0*sdbbO3GUjz7piF9O",
+            "cover": "https://miro.medium.com/max/2400/0*H1mgMaiNGGBk8bsy.jpeg",
+            "url": "https://medium.com/nerd-for-tech/git-and-github-beginners-guide-a-hands-on-approach-e97e9489a017",
+            "meta-title": "Being a Software Engineer, you probably have heard of these two terms Git and GitHub. Everyone in the programming world keep saying that you must know about Git and GitHub but no one actually gives the reason....."
         }
     ]
 }
